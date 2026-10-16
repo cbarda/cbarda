@@ -19,7 +19,7 @@ Software Engineer at Accenture Greece, specialising in low-code development, SQL
 
 ## 📂 Projects
 
-### 💰 [Personal Finance Tracker — MySQL](https://github.com/cbarda/personal-finance-tracker)
+### 💰 [Personal Finance Tracker - MySQL](https://github.com/cbarda/personal-finance-tracker)
 MySQL project implementing a personal finance tracker with normalized schema design, stored procedures, transactional fund transfers with deadlock prevention, automated testing and audit logging.
 
 ---
@@ -30,4 +30,4 @@ MySQL project implementing a personal finance tracker with normalized schema des
 
 ---
 
-*I enjoy turning complex problems into clean, reliable solutions — and I'm always looking for the next thing to learn.* 🚀
+*Detail-oriented by nature, curious by choice.* 🔍
