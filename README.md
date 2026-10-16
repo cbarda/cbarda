@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Christina 👋
 
-<!--
-**cbarda/cbarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Accenture Greece, specialising in low-code development, SQL and system integrations in regulated financial environments.
 
-Here are some ideas to get you started:
+🌱 Currently expanding my skills in Python and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Appian](https://img.shields.io/badge/Appian-0066CC?style=flat&logo=appian&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 💰 [Personal Finance Tracker — MySQL](https://github.com/cbarda/personal-finance-tracker)
+MySQL project implementing a personal finance tracker with normalized schema design, stored procedures, transactional fund transfers with deadlock prevention, automated testing and audit logging.
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christina-barda)
+
+---
+
+*I enjoy turning complex problems into clean, reliable solutions — and I'm always looking for the next thing to learn.* 🚀
