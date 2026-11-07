@@ -2,33 +2,53 @@
 
 Software Engineer at Accenture Greece, specialising in low-code development, SQL and system integrations in regulated financial environments.
 
-🌱 Currently expanding my skills in Python and backend development.
-
 ---
 
 ## 🛠️ Tech Stack
 
-**Platforms & Low-Code:**<br>
- ![Appian](https://img.shields.io/badge/Appian-0066CC?style=flat&logo=appian&logoColor=white)
+### 💼 Professional Experience
 
-**Languages & Data:**<br>
+![Appian](https://img.shields.io/badge/Appian-0066CC?style=flat&logo=appian&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white)
+![System Integrations](https://img.shields.io/badge/System_Integrations-555555?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+### 💻 Project Experience
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=flat&logo=bluetooth&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
+### 🌐 Additional Technologies
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Tools & Workflow:**<br>
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🌱 Currently Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend_Development-374151?style=flat&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
-### 💰 [Personal Finance Tracker - MySQL](https://github.com/cbarda/personal-finance-tracker)
-MySQL project implementing a personal finance tracker with normalized schema design, stored procedures, transactional fund transfers with deadlock prevention, automated testing and audit logging.
+### 📡 [BLE Beacon Navigation](https://github.com/charda/ble-beacon-navigation)
+
+An Android application built with Java for Bluetooth Low Energy device discovery, RSSI monitoring, and proximity estimation.
+*Reconstructed from an earlier university project. Local build verified; physical device testing pending.*
+
+### 💰 [Personal Finance Tracker](https://github.com/charda/personal-finance-tracker)
+
+A relational database project for personal finance management, featuring normalized schema design, advanced SQL queries, stored procedures, transactional fund transfers, automated tests, and audit logging.
+
+### 🐍 [Python Learning Journey](https://github.com/charda/python-learning-journey)
+
+An evolving collection of Python exercises, notes, and practical implementations documenting my progress from programming fundamentals toward more advanced concepts.
 
 ---
 
