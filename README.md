@@ -37,16 +37,16 @@ Software Engineer at Accenture Greece, specialising in low-code development, SQL
 
 ## 📂 Projects
 
-### 📡 [BLE Beacon Navigation](https://github.com/charda/ble-beacon-navigation)
+### 📡 [BLE Beacon Navigation](https://github.com/cbarda/ble-beacon-navigation)
 
 An Android application built with Java for Bluetooth Low Energy device discovery, RSSI monitoring, and proximity estimation.
 *Reconstructed from an earlier university project. Local build verified; physical device testing pending.*
 
-### 💰 [Personal Finance Tracker](https://github.com/charda/personal-finance-tracker)
+### 💰 [Personal Finance Tracker](https://github.com/cbarda/personal-finance-tracker)
 
 A relational database project for personal finance management, featuring normalized schema design, advanced SQL queries, stored procedures, transactional fund transfers, automated tests, and audit logging.
 
-### 🐍 [Python Learning Journey](https://github.com/charda/python-learning-journey)
+### 🐍 [Python Learning Journey](https://github.com/cbarda/python-learning-journey)
 
 An evolving collection of Python exercises, notes, and practical implementations documenting my progress from programming fundamentals toward more advanced concepts.
 
